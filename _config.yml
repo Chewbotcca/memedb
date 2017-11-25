@@ -1,0 +1,8 @@
+title: Chewbotcca's MemeDB
+description: MemeDB used by Chewbotcca and more
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
