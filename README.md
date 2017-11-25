@@ -6,19 +6,19 @@ Currently our meme database is pretty small, help increase it!
 
 Meme Name  | URL
 ---------- | --------------------------------------------
-rickroll   | <http://memedb.chew.pw/memes/rickroll.gif>
-deanmeme   | <http://memedb.chew.pw/memes/deanmeme.png>
-vegans     | <http://memedb.chew.pw/memes/vegans.png>
-spotad     | <http://memedb.chew.pw/memes/spotad.jpg>
-petpet     | <http://memedb.chew.pw/memes/petpet.jpg>
-nicememe   | <http://memedb.chew.pw/memes/nicememe.gif>
-paycheck   | <http://memedb.chew.pw/memes/paycheck.JPG>
-pokesteak  | <http://memedb.chew.pw/memes/pokesteak.JPG>
-losthope   | <http://memedb.chew.pw/memes/losthope.png>
-timetostop | <http://memedb.chew.pw/memes/timetostop.gif>
-skypetrash | <http://memedb.chew.pw/memes/skypetrash.gif>
-trap       | <http://memedb.chew.pw/memes/trap.jpeg>
-triggered  | <http://memedb.chew.pw/memes/triggered.gif>
+rickroll   | <http://chewbotcca.github.io/memedb/rickroll.gif>
+deanmeme   | <http://chewbotcca.github.io/memedb/deanmeme.png>
+vegans     | <http://chewbotcca.github.io/memedb/vegans.png>
+spotad     | <http://chewbotcca.github.io/memedb/spotad.jpg>
+petpet     | <http://chewbotcca.github.io/memedb/petpet.jpg>
+nicememe   | <http://chewbotcca.github.io/memedb/nicememe.gif>
+paycheck   | <http://chewbotcca.github.io/memedb/paycheck.JPG>
+pokesteak  | <http://chewbotcca.github.io/memedb/pokesteak.JPG>
+losthope   | <http://chewbotcca.github.io/memedb/losthope.png>
+timetostop | <http://chewbotcca.github.io/memedb/timetostop.gif>
+skypetrash | <http://chewbotcca.github.io/memedb/skypetrash.gif>
+trap       | <http://chewbotcca.github.io/memedb/trap.jpeg>
+triggered  | <http://chewbotcca.github.io/memedb/triggered.gif>
 
 You can submit a meme here: http://goo.gl/forms/BRMomYVizsY7SqOg2
 
